@@ -78,3 +78,4 @@ print("✅ Bot started... Running every 1 minute")
 while True:
     schedule.run_pending()
     time.sleep(1)
+# test
